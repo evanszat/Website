@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Evan Szatkowski | One of The Many</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+      <header>
+        <a href="index.html" id="logo">
+          <h1>Evan Szatkowski</h1>
+          <h2>One of The Many</h2>
+        </a>
+        <nav>
+          <ul>
+            <li><a href="index.html">One of the Many</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </header>
+	  <div id="wrapper">
+		  <section>
+			<ul>
+			  <li>
+				<a href="http://www.art.com/products/p14379134-sa-i2808468/students-play-a-basketball-game-as-the-sun-sets-at-bucks-county-community-college.htm" alt="">
+				  <img src="basketball.jpg" alt="">
+				  <p>Playing basketball outdoors</p>
+				</a>
+			  </li>
+			  <li>
+				<a href="http://www.gettyimages.com/detail/illustration/lacrosse-silhouettes-royalty-free-illustration/455594841" alt="">
+				  <img src="Lacrossemoves.jpg" alt="">
+				  <p>People playing Lacrosse</p>
+				</a>
+			  </li>
+			  <li>
+				<a href="http://boingboing.net/2011/03/23/settlers-of-catan-th.html" alt="">
+				  <img src="settlers-catan.jpg" alt="">
+				  <p>People playing Settlers of Catan</p>
+				</a>
+			  </li>
+			  <li>
+				<a href="http://wallvan.com/acoustic-guitar-hd-wallpapers.html" alt="">
+				  <img src="acousticguitar.jpg" alt="">
+				  <p>Acoustic guitar</p>
+				</a>
+			  </li>
+			</ul>
+		  </section>
+		  	<p>
+		  	I am a team player, 
+		  	</p>
+		  <footer>
+			<p>&copy; 2014 Evan Szatkowski.</p>
+		  </footer>
+	  </div>
+  </body>
+</html>
